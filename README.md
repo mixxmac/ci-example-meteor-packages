@@ -1,5 +1,6 @@
 travis-ci-meteor-packages
 =========================
+[![Build Status](https://travis-ci.org/mixxmac/ci-example-meteor-packages.svg)](https://travis-ci.org/mixxmac/ci-example-meteor-packages)
 
 ### [Travis CI support for Meteor (Smart) Packages](http://meteorhacks.com/travis-ci-support-for-meteor-packages.html)
 
